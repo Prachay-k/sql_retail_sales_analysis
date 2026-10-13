@@ -233,6 +233,5 @@ GROUP BY shift;
 
 **Prachay Khatu**
 Mumbai, India
-LinkedIn: *add your link*
-GitHub: *add your link*
-Email: *add your email*
+GitHub: *github.com/Prachay-k*
+Email: *prachaykhatu025@gmail.com*
